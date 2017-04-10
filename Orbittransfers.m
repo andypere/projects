@@ -1,4 +1,4 @@
-%MAE 425 HW 9
+%MAE 425 Orbit transfers
 %1
 re=6371*1000; % m
 R1=re+300000;   % m
