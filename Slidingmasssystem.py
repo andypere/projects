@@ -1,6 +1,4 @@
-# Chapter 4: Systems of differential equations
-#
-# Direction field and equilibria for x'=y, y'=x''=-4 sin(x)
+
 
 from numpy import *
 import matplotlib.pyplot as plt
